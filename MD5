@@ -1,0 +1,8 @@
+e09131e6f7300ebdc7b2ee8c6e6ac587 *DESCRIPTION
+ef22acd56c113daff514dd2e08d432ec *NAMESPACE
+17cacc1d1c3b5551ea268ea30e4a185f *R/getHSIOptions.R
+bc1513b03a932cbd8ce4e2c575f8e9ec *R/getLastShortSelling.R
+59b39798c54b31c3fdc5462f9501b1c2 *R/prepInsertSQL.R
+e57d6644ec32005a1f1ced542c14a89d *man/getHSIOptions.Rd
+889c9107ab0c2df37de234c979e36d95 *man/getLastShortSelling.Rd
+fd14b19225892d415b26e605d947f537 *man/prepInsertSQL.Rd

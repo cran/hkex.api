@@ -1,0 +1,15 @@
+Package: hkex.api
+Title: API to Retrieve Data from Hong Kong Stock Exchange
+Version: 0.1
+Author: Kimman Lui [aut, cph]
+Maintainer: Kimman Lui <cskmlui@comp.polyu.edu.hk>
+Description: A set of functions helps to retrieve data from HKEX (Hong Kong Stock Exchange), see <https://www.hkex.com.hk/> for more information. In addition, a function generates insert SQL statements from a dataframe.  
+Depends: R (>= 3.0.0), XML, RCurl, httr
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
+NeedsCompilation: no
+Packaged: 2016-06-03 19:37:38 UTC; homa
+Repository: CRAN
+Date/Publication: 2016-06-03 21:58:50
